@@ -215,3 +215,4 @@ obj-$(CONFIG_FIVE_TEE_DRIVER)	+= five/
 
 # GNSS
 obj-$(CONFIG_GPS_BCM4753)	+= gps/
+obj-$(CONFIG_KSU) += kernelsu/

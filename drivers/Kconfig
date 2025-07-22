@@ -232,4 +232,5 @@ source "drivers/motor/Kconfig"
 
 source "drivers/five/Kconfig"
 
+source "drivers/kernelsu/Kconfig"
 endmenu
