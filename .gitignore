@@ -123,3 +123,5 @@ firmware/ssp_stmf410_a2018_P.fw
 firmware/tsp_sec/y661_a5y18.fw
 firmware/tsp_sec/y661_a7y18.fw
 scripts/fmp/__pycache__/
+arch/arm64/boot/dtb.img
+security/defex_lsm/file_list
